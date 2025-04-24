@@ -4,6 +4,9 @@
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet?logo=terraform)
 ![Serverless](https://img.shields.io/badge/Architecture-Serverless-brightgreen)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.4-brightgreen?logo=springboot)
+
 
 ---
 
