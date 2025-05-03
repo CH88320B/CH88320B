@@ -27,7 +27,7 @@ Especializado en:
 
 - **Cloud:** AWS (Lambda, API Gateway, S3, IAM, RDS)
 - **Infraestructura:** Terraform, GitHub Actions
-- **Backend:** .NET Core, C#, Java 17 Springboot
+- **Backend:** .NET Core, C#, Java 17 Springboot,FastAPI Python 3.11
 - **Bases de datos:** SQL Server, PostgreSQL, Azure Database
 - **Herramientas:** Git, Docker, VSCode,IntellJ, VSTO 2022, Swagger, Postman,
 
